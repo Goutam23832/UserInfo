@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\D\\solutions\\DotNetCodeBase\\DotNetCodeBase\\wwwroot\\images\\1339ed04-6972-4fbd-96e8-21c66bec7653.png",
+      "PackagePath": "staticwebassets\\images\\1339ed04-6972-4fbd-96e8-21c66bec7653.png"
+    },
+    {
+      "Id": "D:\\D\\solutions\\DotNetCodeBase\\DotNetCodeBase\\wwwroot\\images\\435610b8-2562-48d5-a562-915d7dea0444.jpg",
+      "PackagePath": "staticwebassets\\images\\435610b8-2562-48d5-a562-915d7dea0444.jpg"
+    },
+    {
+      "Id": "D:\\D\\solutions\\DotNetCodeBase\\DotNetCodeBase\\wwwroot\\images\\5e6ba1b5-7499-4a9c-be68-2c9ada06cc48.jpg",
+      "PackagePath": "staticwebassets\\images\\5e6ba1b5-7499-4a9c-be68-2c9ada06cc48.jpg"
+    },
+    {
+      "Id": "D:\\D\\solutions\\DotNetCodeBase\\DotNetCodeBase\\wwwroot\\images\\d93795a4-a2cc-42f9-b0f8-8aff3ee03a84.png",
+      "PackagePath": "staticwebassets\\images\\d93795a4-a2cc-42f9-b0f8-8aff3ee03a84.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DotNetCodeBase.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DotNetCodeBase.props",
+      "PackagePath": "build\\DotNetCodeBase.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DotNetCodeBase.props",
+      "PackagePath": "buildMultiTargeting\\DotNetCodeBase.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DotNetCodeBase.props",
+      "PackagePath": "buildTransitive\\DotNetCodeBase.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

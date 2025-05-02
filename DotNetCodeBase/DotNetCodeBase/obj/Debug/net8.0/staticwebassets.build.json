@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "Hash": "PE5KXWNnoFYcxfN7UFbLOIcshtWrUQK/PQDGrnL3KME=",
+  "Source": "DotNetCodeBase",
+  "BasePath": "_content/DotNetCodeBase",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\D\\solutions\\DotNetCodeBase\\DataProvider\\DataProvider.csproj",
+      "Version": 2,
+      "Source": "DataProvider",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DotNetCodeBase\\wwwroot",
+      "Source": "DotNetCodeBase",
+      "ContentRoot": "D:\\D\\solutions\\DotNetCodeBase\\DotNetCodeBase\\wwwroot\\",
+      "BasePath": "_content/DotNetCodeBase",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\D\\solutions\\DotNetCodeBase\\DotNetCodeBase\\wwwroot\\images\\1339ed04-6972-4fbd-96e8-21c66bec7653.png",
+      "SourceId": "DotNetCodeBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\D\\solutions\\DotNetCodeBase\\DotNetCodeBase\\wwwroot\\",
+      "BasePath": "_content/DotNetCodeBase",
+      "RelativePath": "images/1339ed04-6972-4fbd-96e8-21c66bec7653.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1339ed04-6972-4fbd-96e8-21c66bec7653.png"
+    },
+    {
+      "Identity": "D:\\D\\solutions\\DotNetCodeBase\\DotNetCodeBase\\wwwroot\\images\\435610b8-2562-48d5-a562-915d7dea0444.jpg",
+      "SourceId": "DotNetCodeBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\D\\solutions\\DotNetCodeBase\\DotNetCodeBase\\wwwroot\\",
+      "BasePath": "_content/DotNetCodeBase",
+      "RelativePath": "images/435610b8-2562-48d5-a562-915d7dea0444.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\435610b8-2562-48d5-a562-915d7dea0444.jpg"
+    },
+    {
+      "Identity": "D:\\D\\solutions\\DotNetCodeBase\\DotNetCodeBase\\wwwroot\\images\\5e6ba1b5-7499-4a9c-be68-2c9ada06cc48.jpg",
+      "SourceId": "DotNetCodeBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\D\\solutions\\DotNetCodeBase\\DotNetCodeBase\\wwwroot\\",
+      "BasePath": "_content/DotNetCodeBase",
+      "RelativePath": "images/5e6ba1b5-7499-4a9c-be68-2c9ada06cc48.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5e6ba1b5-7499-4a9c-be68-2c9ada06cc48.jpg"
+    },
+    {
+      "Identity": "D:\\D\\solutions\\DotNetCodeBase\\DotNetCodeBase\\wwwroot\\images\\d93795a4-a2cc-42f9-b0f8-8aff3ee03a84.png",
+      "SourceId": "DotNetCodeBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\D\\solutions\\DotNetCodeBase\\DotNetCodeBase\\wwwroot\\",
+      "BasePath": "_content/DotNetCodeBase",
+      "RelativePath": "images/d93795a4-a2cc-42f9-b0f8-8aff3ee03a84.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\d93795a4-a2cc-42f9-b0f8-8aff3ee03a84.png"
+    }
+  ]
+}
